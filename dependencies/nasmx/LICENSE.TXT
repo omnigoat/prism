@@ -1,0 +1,6 @@
+-NASM is licensed under the GNU Lesser General Public License (LGPL).
+ -Please visit http://www.gnu.org/licenses/lgpl.html, for information about the LGPL.
+ -The NASM homepage can be found at http://nasm.sourceforge.net/
+
+-GoLink and GoRC are copyrighted (c) software of Jeremy Gordon, with all rights reserved.
+ -The "Go Tools" homepage can be found at http://www.jorgon.freeserve.co.uk/

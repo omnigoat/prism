@@ -1,0 +1,11 @@
+# ignore MSVC config files
+project/*.ncb
+project/*.user
+
+# ignore generated build folders
+project/debug/
+project/release/
+project/diss/
+
+# ignore resource directory
+resource/
